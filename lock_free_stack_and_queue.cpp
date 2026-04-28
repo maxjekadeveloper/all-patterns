@@ -1,4 +1,3 @@
-
 #include <memory>
 #include <type_traits>
 #include <ostream>
@@ -10,8 +9,6 @@
 
 #include "lock_free_queue.hpp"
 #include "lock_free_stack.hpp"
-
-
 
 // Performance benchmarking utility
 class LockFreeBenchmark {

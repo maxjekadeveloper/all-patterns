@@ -15,9 +15,6 @@
 #include "lock_free_queue.hpp"
 #include "async_task_manager.hpp"
 
-
-// g++ --std=c++20 -O3 -pthread main3.cpp -o main3
-
 // Market data types
 struct MarketTick {
     std::string symbol;

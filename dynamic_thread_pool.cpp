@@ -1,3 +1,6 @@
+
+// g++ --std=c++20 -O3 -pthread dynamic_thread_pool.cpp -o dynamic_thread_pool
+
 #include "dynamic_thread_pool.hpp"
 
 int main()

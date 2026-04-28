@@ -11,8 +11,6 @@
 #include <chrono>
 #include <random>
 
-// g++ --std=c++20 -O3 -pthread all_patterns.cpp -o all_patterns
-
 using namespace std;
 
 // Global atomic counter for lock-free operations
